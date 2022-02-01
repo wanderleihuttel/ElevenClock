@@ -7,13 +7,13 @@
 # Meke special attention to elements like ":", etc.
 
 lang_3_2 = {
-    "Use system accent color as background color": "",
-    "Check only the focused window on the fullscreen check": "",
-    "Clock on monitor {0}": "",
-    "Move to the left": "",
-    "Show this clock on the left": "",
-    "Show this clock on the right": "",
-    "Restore clock position": "",
+    "Use system accent color as background color": "Usar cor de destaque do sistema como cor de fundo",
+    "Check only the focused window on the fullscreen check": "Verificar apenas a janela em foco na verificação de tela cheia",
+    "Clock on monitor {0}": "Relógio no monitor {0}",
+    "Move to the left": "Mover para a esquerda",
+    "Show this clock on the left": "Mostrar este relógio à esquerda",
+    "Show this clock on the right": "Mostrar este relógio à direita",
+    "Restore clock position": "Restaurar a posição do relógio",
 }
 
 lang_3_1 = lang_3_2 | {
